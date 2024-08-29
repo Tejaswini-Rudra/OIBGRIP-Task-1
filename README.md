@@ -1,2 +1,6 @@
 # OIBGRIP-Task-1
- Task-1 is about Landing Page
+Oasis InfoByte Web Development Internship Task-1 is about Landing Page.
+## Technical Skills
+- HTML
+- CSS
+##### Website Link: [click here]()
